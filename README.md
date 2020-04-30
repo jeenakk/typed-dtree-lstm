@@ -28,4 +28,4 @@ To run the code execute these steps :
 
 ## Acknowledgements
 
-Shout-out to [Riddhiman Dasgupta](https://dasguptar.github.io/) for Pytorch implementation of the paper [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/abs/1503.00075), which served as a starter code for this project.
+Shout-out to [Riddhiman Dasgupta](https://dasguptar.github.io/) for Pytorch implementation of the paper [Improved Semantic Representations From Tree-Structured Long Short-Term Memory Networks](https://arxiv.org/abs/1503.00075), which served as a [starter code](https://github.com/dasguptar/treelstm.pytorch) for this project.
